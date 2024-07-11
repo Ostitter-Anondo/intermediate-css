@@ -1,0 +1,31 @@
+.birat-area{
+    max-width: 60%;
+    border: 3px solid skyblue;
+    border-radius: 16px;
+    margin: auto;
+    font-size: 24px;
+}
+
+.jodu{
+    height: 300px;
+    width: 300px;
+    /* border: 5px solid slateblue; */
+    text-align: center;
+    position: relative;
+}
+.hehe{
+    max-height: 200px;
+}
+
+.lol1{
+    top: 220px;
+    left: -50px;
+    z-index: 10;
+}
+.lol2{
+    z-index:  5;
+}
+.lol3{
+    top: -350px;
+    z-index: 1;
+}

@@ -1,0 +1,20 @@
+h2::after{
+    content: ".niga";
+    color: aqua;
+}
+h2::before{
+    content: "Ashole, ";
+    background-color: lightblue;
+}
+p::first-letter{
+    font-size: 2em;
+}
+p::first-line{
+    background-color: green;
+    color: aliceblue;
+}
+
+::selection{
+    background-color: yellowgreen;
+    color: azure;
+}
